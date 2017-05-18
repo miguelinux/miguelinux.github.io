@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mí
+permalink: /sobre-mi/
 ---
 
 Some information about you!
+
 
 ### More Information
 
